@@ -1,0 +1,38 @@
+{
+  "interpreterPath": "/usr/local/bin/python3",
+  "name": "python397jvsc74a57bd0aee8b7b246df8f9039afb4144a1f6fd8d2ca17a180786b69acc140d282b71a49",
+  "argv": [
+    "/usr/local/bin/python3",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "language": "python",
+  "path": "python",
+  "display_name": "Python 3.9.7 64-bit",
+  "metadata": {
+    "interpreter": {
+      "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.9",
+      "envType": "Global",
+      "envName": "",
+      "envPath": "",
+      "path": "/usr/local/bin/python3",
+      "architecture": 3,
+      "sysVersion": "3.9.7 (v3.9.7:1016ef3790, Aug 30 2021, 16:39:15) \n[Clang 6.0 (clang-600.0.57)]",
+      "version": {
+        "raw": "3.9.7",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "build": [],
+        "prerelease": [
+          "final",
+          "0"
+        ]
+      },
+      "displayName": "Python 3.9.7 64-bit"
+    }
+  },
+  "env": {}
+}

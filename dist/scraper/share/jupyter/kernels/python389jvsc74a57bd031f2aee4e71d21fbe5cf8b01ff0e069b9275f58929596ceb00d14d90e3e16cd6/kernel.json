@@ -1,0 +1,39 @@
+{
+  "specFile": "/Users/vanlaere/Library/Jupyter/kernels/python389jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6/kernel.json",
+  "interpreterPath": "/usr/bin/python3",
+  "name": "python389jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6",
+  "argv": [
+    "/usr/bin/python3",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "language": "python",
+  "path": "python",
+  "display_name": "Python 3.8.2 64-bit",
+  "metadata": {
+    "interpreter": {
+      "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+      "envType": "Global",
+      "envName": "",
+      "envPath": "",
+      "path": "/usr/bin/python3",
+      "architecture": 3,
+      "sysVersion": "3.8.9 (default, Aug 21 2021, 15:53:23) \n[Clang 13.0.0 (clang-1300.0.29.3)]",
+      "version": {
+        "raw": "3.8.9",
+        "major": 3,
+        "minor": 8,
+        "patch": 9,
+        "build": [],
+        "prerelease": [
+          "final",
+          "0"
+        ]
+      },
+      "displayName": "Python 3.8.2 64-bit"
+    }
+  },
+  "env": {}
+}

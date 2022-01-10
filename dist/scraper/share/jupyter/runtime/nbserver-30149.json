@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/vanlaere/Documents/Code immersives fall 2021/selfstudy",
+  "password": false,
+  "pid": 30149,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "8a7e7f1192113dedef204abbeb88e0ce21ceb2fda4c8e635",
+  "url": "http://localhost:8888/"
+}
